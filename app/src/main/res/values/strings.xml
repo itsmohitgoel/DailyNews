@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    
+    <string name="heading_no_internet_state">Please Check Internet Connection</string>
+    <string name="heading_empty_data_set">No News Available Right Now</string>
+    <string name="label_author">Author :</string>
+    <string name="dummy_time_value">20:25</string>
+</resources>
