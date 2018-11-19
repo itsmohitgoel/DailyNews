@@ -5,4 +5,28 @@
     <string name="heading_empty_data_set">No News Available Right Now</string>
     <string name="label_author">Author :</string>
     <string name="dummy_time_value">20:25</string>
+
+
+    <!--String related to 'Order by' settings-->
+    <string name="settings_title_order_by">Order By</string>
+    <string name="settings_dialog_title_order_by">Select the criteria of sorting</string>
+    <string name="settings_key_order_by">order_by</string>
+    <string name="settings_default_order_by">@string/settings_value_order_by_relevance</string>
+
+    <string name="settings_label_order_by_newest">Most Recent</string>
+    <string name="settings_value_order_by_newest">newest</string>
+    <string name="settings_label_order_by_relevance">Relevance</string>
+    <string name="settings_value_order_by_relevance">relevance</string>
+
+
+    <!--String related to 'Order by' settings-->
+    <string name="settings_title_search_for">Search For</string>
+    <string name="settings_key_search_for">search_for</string>
+    <string name="settings_default_search_for">india</string>
+
+    <!--String related to 'Settings' Menu-->
+    <string name="settings_label_toolbar">Daily News Settings</string>
+    <string name="menu_settings">Settings</string>
+
+
 </resources>
